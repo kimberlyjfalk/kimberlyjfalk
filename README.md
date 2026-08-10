@@ -34,3 +34,23 @@ An AI-enabled intelligence system designed to turn high-volume AI news into acti
 Rather than simply summarizing information, the system identifies what matters to marketing and GTM, distinguishes new developments from noise, surfaces practical tools and applications, and continuously improves through human evaluation and iteration.
 
 **Focus:** AI intelligence · Marketing strategy · GTM · Tool discovery · Workflow design · Human + AI decision-making
+
+---
+
+### [AI Market Intelligence](https://github.com/kimberlyjfalk/ai-market-intelligence)
+
+An AI-enabled approach to customer, market, and competitive intelligence that reduced research time by approximately **80%** while expanding the information available for strategic decision-making.
+
+The system brings fragmented customer, competitive, market, sales, and business signals together to identify patterns, challenge assumptions, and translate intelligence into better ICP, positioning, segmentation, and GTM decisions.
+
+**Focus:** Customer intelligence · Market intelligence · Competitive intelligence · ICP & segmentation · Positioning · GTM strategy · AI-assisted decision-making
+
+---
+
+### [AI Search Visibility](https://github.com/kimberlyjfalk/ai-search-visibility)
+
+A strategic SEO, AEO, and GEO approach for managing not only whether a B2B brand appears in AI-generated answers, but **how LLMs understand, position, and compare it against competitors**.
+
+Applied in practice, the approach achieved approximately **75% top-position visibility** and **97% positive brand sentiment** across targeted AI-generated outputs in under 60 days.
+
+**Focus:** SEO · AEO · GEO · LLM visibility · Brand representation · Competitive positioning · AI search measurement
