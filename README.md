@@ -25,8 +25,12 @@ Each project starts with the same questions:
 
 What problem are we trying to solve, and where and how can AI meaningfully improve the outcome?
 
-Selected Work:
+## Selected Work
 
-Projects and case studies coming soon.
+### [AI Marketing Intelligence](https://github.com/kimberlyjfalk/ai-marketing-intelligence)
 
-I’ll use this space to share practical examples of AI-enabled marketing systems, workflows, experiments, and lessons learned — including what worked, what didn’t, and what I’d do differently.
+An AI-enabled intelligence system designed to turn high-volume AI news into actionable marketing intelligence.
+
+Rather than simply summarizing information, the system identifies what matters to marketing and GTM, distinguishes new developments from noise, surfaces practical tools and applications, and continuously improves through human evaluation and iteration.
+
+**Focus:** AI intelligence · Marketing strategy · GTM · Tool discovery · Workflow design · Human + AI decision-making
