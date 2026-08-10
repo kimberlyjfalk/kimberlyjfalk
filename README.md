@@ -1,27 +1,25 @@
 Kimberly Falk
 B2B Marketing Executive | AI-Driven Growth
 
-I’m a B2B marketing executive focused on applying AI strategically to improve how marketing understands, decides, and executes.
+I’m a B2B technology marketing executive focused on creating the clarity, alignment, and marketing operating models that turn strategy into growth.
 
-I believe AI should create business value, not simply more activity. My work focuses on identifying where and how AI can strengthen marketing — from understanding customers, markets, and competitive dynamics to improving GTM strategy, positioning, growth, measurement, and marketing operations.
+My work starts with understanding the business: the market, customers, competitive dynamics, growth opportunities, and the assumptions shaping how the company goes to market. From there, I align marketing, sales, and product around where to play, how to win, and how to translate that understanding into measurable execution.
 
-Rather than treating AI as a collection of tools, I’m interested in building repeatable capabilities that help teams make better decisions, move faster, and create measurable business impact.
+AI increasingly changes what is possible across that entire model.
 
-What I'm Building:
+I apply AI where it creates meaningful business value — expanding what teams can understand, improving the quality and speed of decision-making, accelerating execution, and creating tighter feedback loops between strategy, action, and results.
 
-This GitHub is a working portfolio of AI-enabled marketing systems, workflows, and approaches I’ve developed or am developing to solve real business problems.
+I don't think of AI as a collection of tools or an objective in itself. I think of it as a capability that, applied strategically, can help organizations understand better, decide better, and execute better.
 
-My work currently explores:
+What I'm Building
 
-Customer, Market & Competitive Intelligence — using AI to surface insights faster and improve strategic decision-making.
-GTM Strategy & Growth — applying AI to identify opportunities, sharpen targeting, and improve how marketing and sales go to market.
-Positioning & Product Marketing — using AI to deepen market understanding while strengthening the human judgment behind positioning and messaging.
-SEO, AEO & GEO — exploring how brands earn visibility and influence across traditional search and AI-generated answers.
-Content & Campaign Operations — building workflows that increase speed and scale without sacrificing quality or strategic intent.
-Analytics, Forecasting & Executive Reporting — using AI to connect performance signals across the business, surface what matters, and turn data into clearer insights for leadership and board-level decision-making.
-Marketing & Sales Automation — identifying opportunities to automate repetitive work while keeping people focused on decisions, creativity, and relationships where they add the most value.
+This GitHub is a working portfolio of AI-enabled approaches I've developed or am developing around real marketing and business problems.
 
-Each project starts with the same questions:
+The work spans:
+
+Market Intelligence → GTM Strategy → Positioning → Growth & Visibility → Measurement → Executive Decision-Making
+
+Across each project, the technology may change, but the starting point doesn't:
 
 What problem are we trying to solve, and where and how can AI meaningfully improve the outcome?
 
