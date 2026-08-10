@@ -54,3 +54,13 @@ A strategic SEO, AEO, and GEO approach for managing not only whether a B2B brand
 Applied in practice, the approach achieved approximately **75% top-position visibility** and **97% positive brand sentiment** across targeted AI-generated outputs in under 60 days.
 
 **Focus:** SEO · AEO · GEO · LLM visibility · Brand representation · Competitive positioning · AI search measurement
+
+---
+
+### [AI Executive Intelligence](https://github.com/kimberlyjfalk/ai-executive-intelligence)
+
+An AI-enabled approach to turning fragmented marketing, sales, finance, customer, market, product, and strategic signals into **executive and board-level decision intelligence**.
+
+The system connects performance with customer and segment economics to help leadership understand what happened, why it happened, what it means, what is likely to happen next, and where decisions or investment changes are required.
+
+**Focus:** Executive intelligence · Board reporting · Customer & segment economics · Forecasting · Scenario planning · Resource allocation · AI-assisted decision-making
