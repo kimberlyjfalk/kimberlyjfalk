@@ -25,6 +25,12 @@ What problem are we trying to solve, and where and how can AI meaningfully impro
 
 ## Selected Work
 
+### [The Clarity Lens](YOUR-REPOSITORY-LINK)
+
+An evolving body of Field Notes exploring clarity, strategy, and the thinking behind great marketing. The work examines how shared understanding of the customer, market, business, and problem creates the foundation for better strategy, stronger decisions, and sustainable growth.
+
+**Focus:** Marketing strategy · Organizational clarity · Positioning · Growth · Leadership
+
 ### [AI Marketing Intelligence](https://github.com/kimberlyjfalk/ai-marketing-intelligence)
 
 An AI-enabled intelligence system designed to turn high-volume AI news into actionable marketing intelligence.
