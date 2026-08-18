@@ -11,7 +11,7 @@ I apply AI where it creates meaningful business value — expanding what teams c
 
 I don't think of AI as a collection of tools or an objective in itself. I think of it as a capability that, applied strategically, can help organizations understand better, decide better, and execute better.
 
-What I'm Building
+# What I'm Building
 
 This GitHub is a working portfolio of AI-enabled approaches I've developed or am developing around real marketing and business problems.
 
