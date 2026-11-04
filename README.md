@@ -1,5 +1,5 @@
 Kimberly Falk
-B2B Marketing Executive | AI-Driven Growth
+B2B Technology Marketing Executive | Strategy, Growth & AI-Enabled Leadership
 
 I’m a B2B technology marketing executive focused on creating the clarity, alignment, and marketing operating models that turn strategy into growth.
 
@@ -22,6 +22,18 @@ Market Intelligence → GTM Strategy → Positioning → Growth & Visibility →
 Across each project, the technology may change, but the starting point doesn't:
 
 What problem are we trying to solve, and where and how can AI meaningfully improve the outcome?
+
+## Fractional Marketing Leadership & Strategic Advisory
+
+I work with B2B technology companies navigating critical stages of growth—particularly those whose marketing strategy, organization, or execution capabilities haven't kept pace with the business.
+
+I provide embedded fractional VP Marketing / CMO leadership and strategic advisory for companies expanding into enterprise markets, launching products, entering new markets, or navigating funding and private equity ownership.
+
+My approach combines executive-level strategic leadership with direct execution, team development, and AI/LLM-enabled capabilities.
+
+**Observe → Understand → Decide → Execute → Observe → Refine**
+
+[View my Fractional Marketing Leadership Overview](Kimberly_Falk_Fractional_Marketing_Leadership.pdf)
 
 ## Selected Work
 
